@@ -1,0 +1,24 @@
+header#header-main {
+  width: 100%;
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd;
+}
+
+header#header-main .header-content {
+  max-width: 980px;
+  height: 72px;
+  margin: 0 auto;
+  padding: 0 30px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-content > a {
+  color: #000;
+  text-decoration: none;
+}
+.header > a,
+a:hover {
+  color: #706e75;
+}
