@@ -1,0 +1,15 @@
+section#main-post-list {
+  width: 100%;
+  max-width: 580px;
+  margin: 30px auto;
+  padding: 0 30px;
+}
+
+section#main-post-list article {
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+section#main-post-list img.user-img-post {
+  width: 100%;
+}
